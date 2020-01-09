@@ -1,0 +1,3 @@
+﻿  ben 10.cpp
+C:\Users\mssevov18\source\repos\ben 10\ben 10\ben 10.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ben 10.vcxproj -> C:\Users\mssevov18\source\repos\ben 10\Debug\ben 10.exe
